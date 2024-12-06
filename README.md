@@ -16,6 +16,6 @@ Extras:
 
 
 
-Author: Instructor
-LinkedIn: https://www.linkedin.com/in/Instructor/
-Github: https://github.com/instructor/python-portfolio/
+- Author: Instructor
+- LinkedIn: https://www.linkedin.com/in/Instructor/
+- Github: https://github.com/instructor/python-portfolio/
