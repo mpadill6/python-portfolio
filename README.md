@@ -1,10 +1,21 @@
 # My Python Portfolio
 
 This is python project
-Files: Hello_World.py and several copies
-No Special Libraries needed
+# Folders:
+
+Extras:
+- extrafile
+----------------------
+
+## Redundant Copies of Hello_World.py
+- Hello_World copy 4.py
+- Hello_World copy 3.py
+- Hello_World copy 2.py
+- Hello_World copy.py
+- Hello_World.py
+
 
 
 Author: Instructor
-LinkedIn: 
-Github:
+LinkedIn: https://www.linkedin.com/in/Instructor/
+Github: https://github.com/instructor/python-portfolio/
